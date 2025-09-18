@@ -29,14 +29,14 @@ Vamos a crear un espacio para tu proyecto en la nube de GitHub.
 2. * Crea un nuevo repositorio: En la esquina superior derecha, busca un signo de más (+) y haz clic en 
 "New repository" (Nuevo repositorio). 
 3. * Completa los detalles del repositorio:  
-* o  Repository name: Dale un nombre descriptivo a tu proyecto, por ejemplo: mi-primer
+*   Repository name: Dale un nombre descriptivo a tu proyecto, por ejemplo: mi-primer
 proyecto-prepa. 
-* o  Description (optional): Escribe una breve descripción de tu proyecto (ej. "Un proyecto de 
+*   Description (optional): Escribe una breve descripción de tu proyecto (ej. "Un proyecto de 
 ejemplo para aprender Git y GitHub"). 
-* o Public/Private: Selecciona "Public" (Público) para que otros puedan verlo y 
+*  Public/Private: Selecciona "Public" (Público) para que otros puedan verlo y 
 potencialmente contribuir (¡excelente para tu portafolio!), o "Private" (Privado) si prefieres 
 mantenerlo solo para ti. 
-* o Initialize this repository with: Marca la casilla "Add a README file". El archivo 
+*  Initialize this repository with: Marca la casilla "Add a README file". El archivo 
 README.md es una descripción de tu proyecto y es una buena práctica incluirlo siempre. 
 4. Crea el repositorio: Haz clic en el botón verde "Create repository". 
 5. Modifica el archivo README.md: Añade tus datos generales y una foto tuya, la información debe 
@@ -62,7 +62,7 @@ con el nombre de tu repositorio.
 6. Entra a la carpeta del proyecto:  
 7. cd mi-primer-proyecto-prepa 
 Ahora estás dentro de la carpeta local de tu repositorio. 
-Conceptos clave que acabas de usar: 
+## Conceptos clave que acabas de usar: 
 * Repositorio (repo): Donde se guarda tu proyecto (en tu computadora local y en GitHub). 
 * Rama (branch): En esta actividad, usamos la rama main, que es la línea principal de desarrollo de tu 
 proyecto. En proyectos más grandes, se usan múltiples ramas para trabajar en paralelo. 
