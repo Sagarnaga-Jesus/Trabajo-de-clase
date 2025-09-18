@@ -4,7 +4,7 @@ Sigue estos pasos cuidadosamente:
 1. Ve al sitio web: Abre tu navegador y visita GitHub.com. 
 2. Regístrate: Busca y haz clic en el botón "Sign up" o "Registrarse". 
 3. Completa la información: Te pedirá un correo electrónico, una contraseña y un nombre de usuario.  
-* o Consejo importante: Elige un nombre de usuario profesional (ej. tu nombre y apellido, o 
+        o Consejo importante: Elige un nombre de usuario profesional (ej. tu nombre y apellido, o 
 una variación) porque será público y te representará en la comunidad de desarrolladores. 
 4.  Verifica tu cuenta: Sigue las instrucciones para verificar tu correo electrónico. 
 ¡Felicidades! Ya eres parte de la comunidad de GitHub. 
@@ -63,16 +63,16 @@ con el nombre de tu repositorio.
 7. cd mi-primer-proyecto-prepa 
 Ahora estás dentro de la carpeta local de tu repositorio. 
 Conceptos clave que acabas de usar: 
-* • Repositorio (repo): Donde se guarda tu proyecto (en tu computadora local y en GitHub). 
-* • Rama (branch): En esta actividad, usamos la rama main, que es la línea principal de desarrollo de tu 
+* Repositorio (repo): Donde se guarda tu proyecto (en tu computadora local y en GitHub). 
+* Rama (branch): En esta actividad, usamos la rama main, que es la línea principal de desarrollo de tu 
 proyecto. En proyectos más grandes, se usan múltiples ramas para trabajar en paralelo. 
-* • Commit: Una "fotografía" de tus cambios en un momento dado, con un mensaje descriptivo. 
-* • Clonar (clone): Descargar una copia de un repositorio remoto a tu computadora. 
-* • Push: Enviar tus cambios confirmados desde tu repositorio local a GitHub. 
-* • Pull: Recibir los cambios más recientes desde GitHub a tu repositorio local. (Lo usarás más cuando 
+* Commit: Una "fotografía" de tus cambios en un momento dado, con un mensaje descriptivo. 
+* Clonar (clone): Descargar una copia de un repositorio remoto a tu computadora. 
+* Push: Enviar tus cambios confirmados desde tu repositorio local a GitHub. 
+* Pull: Recibir los cambios más recientes desde GitHub a tu repositorio local. (Lo usarás más cuando 
 colabores). 
-* • README.md: Un archivo que describe tu proyecto, qué hace y cómo usarlo. Se usa Markdown 
+* README.md: Un archivo que describe tu proyecto, qué hace y cómo usarlo. Se usa Markdown 
 para darle formato. 
-* • .gitignore: Un archivo especial donde listas archivos o carpetas que Git debe ignorar y no rastrear 
+* .gitignore: Un archivo especial donde listas archivos o carpetas que Git debe ignorar y no rastrear 
 (ej. archivos de configuración locales, archivos temporales). Esto ayuda a mantener tu repositorio 
 limpio. 
