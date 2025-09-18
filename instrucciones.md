@@ -17,17 +17,17 @@ una variación) porque será público y te representará en la comunidad de desa
 
 Git es la herramienta que te permitirá interactuar con GitHub desde tu computadora. 
 
-1. * Descarga Git: Ve a git-scm.com/downloads y descarga el instalador para tu sistema operativo 
+1. Descarga Git: Ve a git-scm.com/downloads y descarga el instalador para tu sistema operativo 
 (Windows, macOS o Linux). 
-2. * Instala Git: Ejecuta el instalador y sigue los pasos. En la mayoría de los casos, puedes dejar las 
+2. Instala Git: Ejecuta el instalador y sigue los pasos. En la mayoría de los casos, puedes dejar las 
 opciones predeterminadas. 
-3. * Configura tu identidad en Git: Es crucial que Git sepa quién eres cuando haces cambios. Abre tu 
+3. Configura tu identidad en Git: Es crucial que Git sepa quién eres cuando haces cambios. Abre tu 
 Terminal  y ejecuta los siguientes comandos, reemplazando con tu nombre y correo electrónico:  
-4. * git config --global user.name "Tu Nombre Completo" 
-5. * git config --global user.email "tu.email@ejemplo.com" 
-            o El --global significa que esta configuración se aplicará a todos tus proyectos en esta computadora. Git almacenará esto en un archivo llamado .gitconfig. 
-6. * Verifica la configuración: Para asegurarte de que todo está correcto, ejecuta:  
-7. * git config --global --list 
+4. git config --global user.name "Tu Nombre Completo" 
+5. git config --global user.email "tu.email@ejemplo.com" 
+          o El --global significa que esta configuración se aplicará a todos tus proyectos en esta computadora. Git almacenará esto en un archivo llamado .gitconfig. 
+6. Verifica la configuración: Para asegurarte de que todo está correcto, ejecuta:  
+7. git config --global --list 
 
 Deberías ver tu nombre de usuario y correo electrónico en la lista. 
 
@@ -39,14 +39,14 @@ Vamos a crear un espacio para tu proyecto en la nube de GitHub.
 2. * Crea un nuevo repositorio: En la esquina superior derecha, busca un signo de más (+) y haz clic en 
 "New repository" (Nuevo repositorio). 
 3. * Completa los detalles del repositorio:  
-* o Repository name: Dale un nombre descriptivo a tu proyecto, por ejemplo: mi-primer
+* Repository name: Dale un nombre descriptivo a tu proyecto, por ejemplo: mi-primer
 proyecto-prepa. 
-* o Description (optional): Escribe una breve descripción de tu proyecto (ej. "Un proyecto de 
+* Description (optional): Escribe una breve descripción de tu proyecto (ej. "Un proyecto de 
 ejemplo para aprender Git y GitHub"). 
-* o Public/Private: Selecciona "Public" (Público) para que otros puedan verlo y 
+* Public/Private: Selecciona "Public" (Público) para que otros puedan verlo y 
 potencialmente contribuir (¡excelente para tu portafolio!), o "Private" (Privado) si prefieres 
 mantenerlo solo para ti. 
-* o Initialize this repository with: Marca la casilla "Add a README file". El archivo 
+* Initialize this repository with: Marca la casilla "Add a README file". El archivo 
 README.md es una descripción de tu proyecto y es una buena práctica incluirlo siempre. 
 4. Crea el repositorio: Haz clic en el botón verde "Create repository". 
 5. Modifica el archivo README.md: Añade tus datos generales y una foto tuya, la información debe 
