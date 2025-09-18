@@ -7,4 +7,4 @@ Trabajo para la actividad de mañana
 - Especialidad:Programacion.
 - Grupo:5-D
 - Nombre: Jesus Antonio Sagarnaga Macias.
-![Texto alternativo](ruta/a/la/imagen.jpg "Título opcional")
+![Alumno](imagenes/df285d72-60dc-43e9-8e20-861ea8c88f2d.jpg "Imagen del alumno")
